@@ -1,0 +1,22 @@
+.section{
+    background-color: aqua;
+}
+
+.header{
+    color: rgb(132, 202, 26);
+}
+
+.contat-section{
+    color: rgb(211, 28, 28);
+}
+
+#Email{
+    color: green;
+}
+
+#GitHub{
+    color: green;
+}
+#Portfolio{
+    color: green;
+}
